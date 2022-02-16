@@ -8,9 +8,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@mdx-js/react": "^2.0.0",
+    "gray-matter": "^4.0.3",
     "next": "12.0.10",
+    "next-mdx-remote": "^3.0.8",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "reading-time": "^1.5.0",
+    "rehype-autolink-headings": "^6.1.1",
+    "rehype-highlight": "^5.0.2",
+    "rehype-slug": "^5.0.1"
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.2",
